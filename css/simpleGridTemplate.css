@@ -161,9 +161,10 @@ header {
 	border-top-width: 2px;
 }
 footer {
+	text-align: center;
 	background-color: #B3B3B3;
-	padding-top: 60px;
-	padding-bottom: 60PX;
+	padding-top: 70px;
+	padding-bottom: 70PX;
 }
 .intro {
 	display: inline-block;
